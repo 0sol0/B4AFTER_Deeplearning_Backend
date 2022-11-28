@@ -16,8 +16,6 @@
 
 ### 페이지 관계성
 
-![relation.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cdd08f2-dbe0-4a94-b8a3-c01839ba8529/relation.png)
-
 - 로고 버튼 클릭 시 메인페이지로 이동
 - 메인 페이지 내에 게시된 이미지 클릭 시 댓글을 달 수 있는 상세페이지로 이동
 - 로그인 버튼 클릭 시 로그인 페이지로 이동
